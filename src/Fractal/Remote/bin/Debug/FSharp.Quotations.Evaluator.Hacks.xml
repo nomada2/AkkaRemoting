@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FSharp.Quotations.Evaluator.Hacks</name>
+    </assembly>
+    <members>
+        <member name="T:FSharp.Quotations.Evaluator.Hacks.FSharpFunk`2">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <typeparam name="TResult"></typeparam>
+        </member>
+        <member name="M:FSharp.Quotations.Evaluator.Hacks.FSharpFunk`2.Invoke(`0)">
+            <summary>
+            
+            </summary>
+            <param name="func"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
